@@ -1,0 +1,9 @@
+param,value,solved,episode_solved,final_avg_reward
+GAMMA,0.9,1,1277,475.18
+GAMMA,0.999,0,-,430.52
+EPS_CLIP,0.1,1,1387,475.55
+EPS_CLIP,0.3,1,1504,475.79
+LR,0.0005,0,-,210.37
+LR,0.01,1,1088,475.36
+K_EPOCH,1,0,-,276.01
+K_EPOCH,10,1,606,476.98
